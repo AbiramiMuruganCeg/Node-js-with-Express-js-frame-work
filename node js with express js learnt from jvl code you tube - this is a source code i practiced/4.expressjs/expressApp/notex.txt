@@ -1,0 +1,5 @@
+npm init -y
+npm install express
+npm install -D nodemon //to restart automatically while save the file.
+to use development time only.
+npm install nodemon //to use production time and development time also.
